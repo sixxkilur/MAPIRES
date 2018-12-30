@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game id="Subnautica">
+  <name>Subnautica</name>
+  <selectFile>Subnautica.exe</selectFile>
+  <assemblyPath>%fileBase%_data/Managed/</assemblyPath>
+  <includeAssembly>%fileBase%_data/Managed/Assembly-CSharp-firstpass.dll</includeAssembly>
+  <includeAssembly>%fileBase%_data/Managed/Assembly-CSharp.dll</includeAssembly>
+  <includeAssembly>%fileBase%_data/Managed/Assembly-UnityScript-firstpass.dll</includeAssembly>
+  <includeAssembly>%fileBase%_data/Managed/Assembly-UnityScript.dll</includeAssembly>
+  <copyAssembly>%fileBase%_data/Managed/Boo.Lang.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/iTween.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/LibNoise.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/LitJson.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/LumenWorks.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/Mono.Data.Tds.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/Mono.Security.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/mscorlib.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/Newtonsoft.Json.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/Poly2Tri.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/System.Core.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/System.Data.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/System.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/System.Transactions.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/System.Xml.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/UnityEngine.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/UnityEngine.Networking.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/UnityEngine.PerformanceTesting.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/UnityEngine.UI.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/UnityEngine.VR.dll</copyAssembly>
+  <copyAssembly>%fileBase%_data/Managed/UnityScript.Lang.dll</copyAssembly>
+</game>

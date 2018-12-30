@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VersionsData>
+  <files>
+    <file>%fileBase%_Data/Managed/Assembly-CSharp-firstpass.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-CSharp.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-UnityScript.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-UnityScript-firstpass.dll</file>
+  </files>
+  <version id="0.14">
+    <checksum>0B4505DFA28F3057CF0C48D43BF225F5A498A0D2B97954B9C61C1AFEC45DEF6329240F84C97C22A39C812B9999EFA5D15F589F559F3B525B09ADB78D1A2B7C61</checksum>
+  </version>
+  
+</VersionsData>
