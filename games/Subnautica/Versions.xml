@@ -1,46 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionsData>
   <files>
-    <file>%fileBase%_data/Managed/Assembly-CSharp-firstpass.dll</file>
-    <file>%fileBase%_data/Managed/Assembly-CSharp.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-CSharp-firstpass.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-CSharp.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-UnityScript.dll</file>
+    <file>%fileBase%_Data/Managed/Assembly-UnityScript-firstpass.dll</file>
   </files>
-  <version id="1.0Yeta">
-    <checksum>C796BDC28247BE9505C7707B0BA05CDE20E8AD1E3DBC03C5D9CE02F7D90FED60</checksum>
+  <version id="Sep-2018 61056">
+    <checksum>5177D35DD41CCB9DF152AF6F7DA21618EB959DA2FFE35FC91A3DBE12F28E7796</checksum>
   </version>
-  <version id="1.01">
-    <checksum>C796BDC28247BE9505C7707B0BA05CDEE95D736144473FAFA004969142F08A5F</checksum>
-  </version>
-  <version id="1.01b">
-    <checksum>C796BDC28247BE9505C7707B0BA05CDECDF30AD2A0D9ED0856E3674C6B166740</checksum>
-  </version>
-  <version id="1.02">
-    <checksum>C796BDC28247BE9505C7707B0BA05CDE6FECAEA8743B5B18A2D76BCF80ED072F</checksum>
-  </version>
-  <version id="1.03">
-    <checksum>C796BDC28247BE9505C7707B0BA05CDE6089DF86FBA84F2A2DF82C1C952F6E2F</checksum>
-  </version>
-  <version id="1.03b">
-    <checksum>69696B296FED711E17C4F9D70CFFBBB82A2711C8D8615963CEF4C2AE4204B01E</checksum>
-  </version>
-  <version id="1.05">
-    <checksum>BB772363B111DE0FEFE33FABD5A958F4F2EC4D323B535110F4FDBDAEDD417AFF</checksum>
-  </version>
-  <version id="1.7">
-    <checksum>BB772363B111DE0FEFE33FABD5A958F4EC22F5692CDFE4FD6AB0156B4030BA34</checksum>
-  </version>
-  <version id="1.7b">
-    <checksum>BB772363B111DE0FEFE33FABD5A958F4E76DDB13455401727599429ED26C6185</checksum>
-  </version>
-  <version id="1.8">
-    <checksum>300C2852A91FCFEFB2428C5FFCF5DA9BF71955F0EBF451CDD144D034D8916D55</checksum>
-  </version>
-  <version id="1.9">
-    <checksum>3652A82A135BD86D5F88E3529AC48B539F3580D0397B6533CA5FABD18568B8B9</checksum>
-  </version>
-  <version id="1.9b">
-    <checksum>3652A82A135BD86D5F88E3529AC48B53A47E95ECC4D00ADEECE948EDE778A257</checksum>
-  </version>
-  <version id="1.9c">
-    <checksum>3652A82A135BD86D5F88E3529AC48B53D76FBBA7239F94AE1F6CD9993F8F5062</checksum>
-  </version>
+  
 </VersionsData>
